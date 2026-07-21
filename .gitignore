@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+
+diag.txt
+*.log
+
+__pycache__/
+*.pyc
+article_embeddings.npz
+
+web/.next/
+web/node_modules/
